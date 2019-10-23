@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\SumInts\SumInts\bin\Debug\netcoreapp3.0\SumInts.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\SumInts\SumInts\obj\Debug\netcoreapp3.0\SumInts.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\SumInts\SumInts\obj\Debug\netcoreapp3.0\SumInts.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\SumInts\SumInts\obj\Debug\netcoreapp3.0\SumInts.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\SumInts\SumInts\obj\Debug\netcoreapp3.0\SumInts.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\SumInts\SumInts\obj\Debug\netcoreapp3.0\SumInts.pdb

@@ -1,0 +1,10 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\HomeSales\HomeSales\bin\Debug\netcoreapp3.0\HomeSales.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\HomeSales\HomeSales\bin\Debug\netcoreapp3.0\HomeSales.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\HomeSales\HomeSales\bin\Debug\netcoreapp3.0\HomeSales.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\HomeSales\HomeSales\bin\Debug\netcoreapp3.0\HomeSales.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\HomeSales\HomeSales\bin\Debug\netcoreapp3.0\HomeSales.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\HomeSales\HomeSales\bin\Debug\netcoreapp3.0\HomeSales.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\HomeSales\HomeSales\obj\Debug\netcoreapp3.0\HomeSales.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\HomeSales\HomeSales\obj\Debug\netcoreapp3.0\HomeSales.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\HomeSales\HomeSales\obj\Debug\netcoreapp3.0\HomeSales.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\HomeSales\HomeSales\obj\Debug\netcoreapp3.0\HomeSales.pdb

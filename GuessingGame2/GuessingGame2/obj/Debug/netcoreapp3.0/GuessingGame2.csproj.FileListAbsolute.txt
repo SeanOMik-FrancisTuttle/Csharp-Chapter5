@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\GuessingGame2\GuessingGame2\bin\Debug\netcoreapp3.0\GuessingGame2.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\GuessingGame2\GuessingGame2\bin\Debug\netcoreapp3.0\GuessingGame2.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\GuessingGame2\GuessingGame2\bin\Debug\netcoreapp3.0\GuessingGame2.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\GuessingGame2\GuessingGame2\bin\Debug\netcoreapp3.0\GuessingGame2.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\GuessingGame2\GuessingGame2\bin\Debug\netcoreapp3.0\GuessingGame2.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\GuessingGame2\GuessingGame2\bin\Debug\netcoreapp3.0\GuessingGame2.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp3.0\GuessingGame2.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp3.0\GuessingGame2.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp3.0\GuessingGame2.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp3.0\GuessingGame2.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\GuessingGame2\GuessingGame2\obj\Debug\netcoreapp3.0\GuessingGame2.pdb

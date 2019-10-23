@@ -1,0 +1,10 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.0\MultiplicationTable.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.0\MultiplicationTable.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.0\MultiplicationTable.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.0\MultiplicationTable.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter5\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.0\MultiplicationTable.pdb
